@@ -1,0 +1,40 @@
+.nav-item {
+  margin-right: 40px;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("img/aidan-hancock-8RU4OuA6Yug-unsplash.png");
+
+  /* Full height */
+  height:830px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body, html {
+  height: 100%;
+}
+
+.text {
+
+}
+
+.gallery {
+  margin: 0;
+  padding: 0;
+}
+
+.caption {
+  padding: 50px;
+  margin: 30px;
+
+}
+
+.testimonial {
+  padding: 50px;
+    margin: 30px;
+}
